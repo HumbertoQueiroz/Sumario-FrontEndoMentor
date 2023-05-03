@@ -91,6 +91,6 @@ US - The complete source code of this project is available on [(Github)](https:/
 
 ## Designer do desafio / Challenge designer
 
-[Veja o designer base para esse desafio no site FrontEnd mentor:](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV)
+Veja o designer base para esse desafio no site FrontEnd mentor: [FrontEnd Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV)
 
-US - [See the base designer for this challenge on the FrontEnd mentor site:](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV)
+US - See the base designer for this challenge on the FrontEnd mentor site: [FrontEnd Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV)
