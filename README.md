@@ -61,9 +61,18 @@ Abaixo imagens do resultado final.
 
 US - Below are images of the final result.
 
-**Desktop**
-![image](https://user-images.githubusercontent.com/90359980/236027231-91568567-b993-475b-857b-ae2db3f465a0.png)
+`Smatphone`
 
+![image](https://user-images.githubusercontent.com/90359980/236027923-3bbe269e-e75a-4682-8220-c94895363b65.png)
+
+`Tablet`
+
+![image](https://user-images.githubusercontent.com/90359980/236028112-69b558f5-27fd-4af6-a2ab-40015902d50f.png)
+
+
+`Desktop`
+
+![image](https://user-images.githubusercontent.com/90359980/236027231-91568567-b993-475b-857b-ae2db3f465a0.png)
 
 
 ## Github
