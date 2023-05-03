@@ -57,9 +57,9 @@ US - It was a challenge for me to access the information contained in `data.json
 
 ## Github
 
-O código fonte completo deste projeto esta disponível no [Github] (.....) 
+O código fonte completo deste projeto esta disponível no [Github] (https://github.com/HumbertoQueiroz/Sumario-FrontEndoMentor#responsividade--responsiveness-)
 
-US - The complete source code of this project is available on [Github] (.....)
+US - The complete source code of this project is available on [Github] [(.....)](https://github.com/HumbertoQueiroz/Sumario-FrontEndoMentor#responsividade--responsiveness-)
 
 
 ## Designer do desafio / Challenge designer
