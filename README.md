@@ -57,6 +57,13 @@ US - It was a challenge for me to access the information contained in `data.json
 
 ## Resultado / Result
 
+
+
+https://user-images.githubusercontent.com/90359980/236031592-dbe3b4f6-7eed-4727-9e64-043d0826420e.mp4
+
+
+
+
 Abaixo imagens do resultado final.
 
 US - Below are images of the final result.
