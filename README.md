@@ -7,9 +7,9 @@ US - I'm `Humberto Queiroz` Web Front-End developer, I've been studying programm
 
 **Venha conhecer meus projetos / Come see my projects** 
 
-Acesse meu site e conheça mais sobre mim e os [projetos que já desenvolvi](https://humbertoqueiroz.github.io/)
+Acesse meu site e conheça mais sobre mim e os [projetos que já desenvolvi](https://humbertoqueiroz.github.io/).
 
-US - Visit my website and learn more about me and the [projects I've developed](https://humbertoqueiroz.github.io/)
+US - Visit my website and learn more about me and the [projects I've developed](https://humbertoqueiroz.github.io/).
 
 ## Sobre o desafio / About the challenge
 
@@ -61,6 +61,9 @@ US - It was a challenge for me to access the information contained in `data.json
 https://user-images.githubusercontent.com/90359980/236031592-dbe3b4f6-7eed-4727-9e64-043d0826420e.mp4
 
 
+
+
+
 Abaixo imagens do resultado final.
 
 US - Below are images of the final result.
@@ -81,9 +84,9 @@ US - Below are images of the final result.
 
 ## Github
 
-O código fonte completo deste projeto esta disponível no [(Github)](https://github.com/HumbertoQueiroz/Sumario-FrontEndoMentor#responsividade--responsiveness-)
+O código fonte completo deste projeto esta disponível no [Github](https://github.com/HumbertoQueiroz/Sumario-FrontEndoMentor#responsividade--responsiveness-)
 
-US - The complete source code of this project is available on [(Github)](https://github.com/HumbertoQueiroz/Sumario-FrontEndoMentor#responsividade--responsiveness-)
+US - The complete source code of this project is available on [Github](https://github.com/HumbertoQueiroz/Sumario-FrontEndoMentor#responsividade--responsiveness-)
 
 
 ## Designer do desafio / Challenge designer
