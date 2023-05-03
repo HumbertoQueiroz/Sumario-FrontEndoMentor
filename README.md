@@ -55,6 +55,17 @@ Foi um desafio para mim acessar as informações contidas no `data.json` pois nu
 
 US - It was a challenge for me to access the information contained in `data.json` as I had never done something similar, but I chose to study and find out how to do it since server communication with dynamic pages is often done through this type of file.
 
+## Resultado / Result
+
+Abaixo imagens do resultado final.
+
+US - Below are images of the final result.
+
+**Desktop**
+![image](https://user-images.githubusercontent.com/90359980/236027231-91568567-b993-475b-857b-ae2db3f465a0.png)
+
+
+
 ## Github
 
 O código fonte completo deste projeto esta disponível no [(Github)](https://github.com/HumbertoQueiroz/Sumario-FrontEndoMentor#responsividade--responsiveness-)
